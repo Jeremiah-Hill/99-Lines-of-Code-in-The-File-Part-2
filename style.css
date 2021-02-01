@@ -1,0 +1,30 @@
+body {
+    background-color: lightgoldenrodyellow
+}
+
+h1 {
+    color: lightsalmon;
+    text-align: center;
+}
+
+.friend {
+    background-color: maroon;
+    border: 20px orangered;
+    color: black;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+
+p {
+    border-style: double;
+    border-color: black;
+    padding: 30px;
+    margin: 20px;
+    background-color: whitesmoke;
+}
+
+
